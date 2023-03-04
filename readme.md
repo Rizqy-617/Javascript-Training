@@ -10,3 +10,4 @@
   - trying loop
   - Make Negative and Make Plus Complete
   - Convert number to array and sort them in reverse order complete
+  - Rock-Paper-Scissors game complete
