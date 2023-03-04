@@ -6,3 +6,6 @@
 
   - Sort Number Ascending & Descending Complete
   - Sum Of Array Complete
+  ---
+  - trying loop
+  - Make Negative and Make Plus Complete

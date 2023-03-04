@@ -1,9 +1,9 @@
 function sortDescending(n) {
-  return parseInt(String(n).split('').sort().reverse().join(''))
+  return parseInt(String(n).split("").sort().reverse().join(""))
 }
 
 function sortAscending(n) {
-  return parseInt(String(n).split('').sort().join(''))
+  return parseInt(String(n).split("").sort().join(""))
 }
 
 console.log(sortDescending(123456789))

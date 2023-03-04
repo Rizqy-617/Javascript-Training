@@ -1,0 +1,23 @@
+{
+  "name": "javascript-training",
+  "version": "1.0.0",
+  "description": "- Ini adalah sebuah repository yang saya buat yang dikhususkan untuk saya latihan javascript. Saya akan coba membuat sebuah kode lalu membuat penjelasannya di readme. Ganbatte for myself!",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rizqy-617/Javascript-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rizqy-617/Javascript-Training/issues"
+  },
+  "homepage": "https://github.com/Rizqy-617/Javascript-Training#readme",
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
+}
