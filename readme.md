@@ -19,3 +19,4 @@
   ---
   - Function to return quarter of year Complete
   - Function which answer the question "Are you playing banjo?" Complete
+  - Function getGrade Complete
