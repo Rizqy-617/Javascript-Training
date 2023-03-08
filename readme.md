@@ -18,3 +18,4 @@
   - Check First and last word of two arguments Complete
   ---
   - Function to return quarter of year Complete
+  - Function which answer the question "Are you playing banjo?" Complete
