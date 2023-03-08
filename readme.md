@@ -12,7 +12,9 @@
   - Convert number to array and sort them in reverse order complete
   - Rock-Paper-Scissors game complete
   ---
-  - DNAtoRNA
+  - DNAtoRNA Complete
   ---
-  - Summation
-  - Check First and last word of two arguments
+  - Summation Complete
+  - Check First and last word of two arguments Complete
+  ---
+  - Function to return quarter of year Complete
