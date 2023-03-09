@@ -1,0 +1,8 @@
+## Penjelasan
+  - Function ini digunakan untuk mengecek karakter terakhir dari parameter pertama dan parameter kedua. Dan juga mengecek karakter pertama dari parameter pertama dan parameter kedua. Apabila huruf pertama dari parameter pertama sama dengan huruf pertama parameter kedua dan huruf terakhir dari parameter pertama sama dengan huruf terakhir parameter kedua, maka akan mengembalikan boolean true. Apabila huruf pertama dari parameter pertama tidak sama dengan huruf pertama parameter kedua dan huruf terakhir dari parameter pertama tidak sama dengan huruf terakhir parameter kedua, maka akan mengembalikan boolean false.
+  - `if (beast.charAt(beast.length - 1 ) == dish.charAt(dish.length - 1) && beast[0] == dish[0]) { ... }` Melakukan pengecekan apakah karakter terakhir dari beast sama dengan karakter terakhir dari dish dan karakter pertama dari beast sama dengan karakter pertama dari dish. Jika benar, maka akan mereturn boolean true.
+  - `else if (beast.charAt(beast.length - 1 ) !== dish.charAt(dish.length - 1) || beast[0] !== dish[0]) { ... }` Melakukan pengecekan apakah karakter terakhir dari beast tidak sama dengan karakter terakhir dari dish atau karakter pertama dari beast tidak sama dengan karakter pertama dari dish. Jika benar, maka akan mereturn boolean false.
+  - `charAt()` adalah sebuah method string yang digunakan untuk mengembalikan karakter yang terdapat pada posisi tertentu dalam sebuah string
+  - `.length` adalah sebuah properti bawaan javascript yang digunakan untuk mengembalikan jumlah karakter atau elemen pada sebuah object
+  - `beast[0]` dan `dish[0]` digunakan untuk mengakses karakter pertama dari variable tersebut
+  

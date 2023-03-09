@@ -1,7 +1,10 @@
 function removeEveryOther(arr){
   //your code here
-  let arrS = null
+  let store = []
   for (let i = 0; i < arr.length; i += 2){
-    console.log(arr[i])
+    return arr[i]++
   }
+  
 }
+
+console.log(removeEveryOther(['Hello', 'Goodbye', 'Hello Again', 'Hello Two', 'hello three']))
