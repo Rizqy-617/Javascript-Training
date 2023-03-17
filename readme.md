@@ -21,3 +21,14 @@
   - Function which answer the question "Are you playing banjo?" Complete
   - Function getGrade Complete
   - Function Get Opposite of Float Complete
+  ---
+  - Function Convert Binary to Number Complete
+  - Functions Sum to odd number complete
+  - Functions Sum string and number complete
+  - Function Remove every even number in array
+  - Function Calculate How many year until Population growth complete
+  - Function is he love me complete
+  - Function get middle word complete
+  - Function Check if there is this number in this array complete
+  - Function convert to cockroach speed complete
+  - 
